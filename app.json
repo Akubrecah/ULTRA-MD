@@ -1,5 +1,5 @@
 {
-  "name": "ULTRA MD",
+  "name": "Akubrecah Entertainment",
   "description": " Whatsapp bot made by Akubrecah Entertainment.",
   "keywords": [
     "whatsapp"
@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "OWNERS": {
-      "description": "owner numbers",
+      "description": "Akubrecah Entertainment, Powel",
       "required": true,
       "value": "254739926767"
     },
