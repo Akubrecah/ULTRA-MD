@@ -201,8 +201,11 @@ let handler = async (m, { conn, usedPrefix, command }) => {
       lkr = `
 ╭───『 *Download* 』─❍
 ◈ •video
+◈ •pinterest
+◈ •threads
+◈ •capcut
 ◈ •itunes
-◈ •play9
+◈ •play
 ◈ •play2
 ◈ •play3
 ◈ •play7
