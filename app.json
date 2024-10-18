@@ -1,21 +1,21 @@
 {
   "name": "ULTRA MD",
-  "description": " Whatsapp bot made by GlobalTechInfo.",
+  "description": " Whatsapp bot made by Akubrecah Entertainment.",
   "keywords": [
     "whatsapp"
   ],
-  "repository": "https://github.com/GlobalTechInfo/ULTRA-MD",
+  "repository": "https://github.com/Akubrecah/ULTRA-MD",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "923444844060"
+      "value": "254739926767"
     },
     "BOTNAME": {
-      "description": "Give your BOT a name",
+      "description": "Akubrecah Entertainment BOT",
       "required": true,
-      "value": "ULTRA-MD"
+      "value": "Akubrecah Ent."
     },
     "DATABASE_URL": {
       "description": "your mongodb or database url",
@@ -55,7 +55,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
